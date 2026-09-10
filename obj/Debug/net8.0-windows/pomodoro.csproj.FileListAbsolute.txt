@@ -1,0 +1,17 @@
+E:\Akbar\PBO\pomodoro\pomodoro\bin\Debug\net8.0-windows\pomodoro.exe
+E:\Akbar\PBO\pomodoro\pomodoro\bin\Debug\net8.0-windows\pomodoro.deps.json
+E:\Akbar\PBO\pomodoro\pomodoro\bin\Debug\net8.0-windows\pomodoro.runtimeconfig.json
+E:\Akbar\PBO\pomodoro\pomodoro\bin\Debug\net8.0-windows\pomodoro.dll
+E:\Akbar\PBO\pomodoro\pomodoro\bin\Debug\net8.0-windows\pomodoro.pdb
+E:\Akbar\PBO\pomodoro\pomodoro\obj\Debug\net8.0-windows\pomodoro.Form1.resources
+E:\Akbar\PBO\pomodoro\pomodoro\obj\Debug\net8.0-windows\pomodoro.Properties.Resources.resources
+E:\Akbar\PBO\pomodoro\pomodoro\obj\Debug\net8.0-windows\pomodoro.csproj.GenerateResource.cache
+E:\Akbar\PBO\pomodoro\pomodoro\obj\Debug\net8.0-windows\pomodoro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Akbar\PBO\pomodoro\pomodoro\obj\Debug\net8.0-windows\pomodoro.AssemblyInfoInputs.cache
+E:\Akbar\PBO\pomodoro\pomodoro\obj\Debug\net8.0-windows\pomodoro.AssemblyInfo.cs
+E:\Akbar\PBO\pomodoro\pomodoro\obj\Debug\net8.0-windows\pomodoro.csproj.CoreCompileInputs.cache
+E:\Akbar\PBO\pomodoro\pomodoro\obj\Debug\net8.0-windows\pomodoro.dll
+E:\Akbar\PBO\pomodoro\pomodoro\obj\Debug\net8.0-windows\refint\pomodoro.dll
+E:\Akbar\PBO\pomodoro\pomodoro\obj\Debug\net8.0-windows\pomodoro.pdb
+E:\Akbar\PBO\pomodoro\pomodoro\obj\Debug\net8.0-windows\pomodoro.genruntimeconfig.cache
+E:\Akbar\PBO\pomodoro\pomodoro\obj\Debug\net8.0-windows\ref\pomodoro.dll
